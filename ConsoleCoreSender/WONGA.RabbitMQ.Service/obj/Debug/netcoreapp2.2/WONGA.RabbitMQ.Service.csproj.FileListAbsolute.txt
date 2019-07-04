@@ -1,0 +1,9 @@
+C:\_repos\ConsoleCoreSender\WONGA.RabbitMQ.Service\bin\Debug\netcoreapp2.2\WONGA.RabbitMQ.Service.deps.json
+C:\_repos\ConsoleCoreSender\WONGA.RabbitMQ.Service\bin\Debug\netcoreapp2.2\WONGA.RabbitMQ.Service.dll
+C:\_repos\ConsoleCoreSender\WONGA.RabbitMQ.Service\obj\Debug\netcoreapp2.2\WONGA.RabbitMQ.Service.csproj.CoreCompileInputs.cache
+C:\_repos\ConsoleCoreSender\WONGA.RabbitMQ.Service\obj\Debug\netcoreapp2.2\WONGA.RabbitMQ.Service.AssemblyInfoInputs.cache
+C:\_repos\ConsoleCoreSender\WONGA.RabbitMQ.Service\obj\Debug\netcoreapp2.2\WONGA.RabbitMQ.Service.AssemblyInfo.cs
+C:\_repos\ConsoleCoreSender\WONGA.RabbitMQ.Service\bin\Debug\netcoreapp2.2\WONGA.RabbitMQ.Service.pdb
+C:\_repos\ConsoleCoreSender\WONGA.RabbitMQ.Service\obj\Debug\netcoreapp2.2\WONGA.RabbitMQ.Service.dll
+C:\_repos\ConsoleCoreSender\WONGA.RabbitMQ.Service\obj\Debug\netcoreapp2.2\WONGA.RabbitMQ.Service.pdb
+C:\_repos\ConsoleCoreSender\WONGA.RabbitMQ.Service\obj\Debug\netcoreapp2.2\WONGA.RabbitMQ.Service.csprojAssemblyReference.cache

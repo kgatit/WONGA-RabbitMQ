@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\_repos\\ConsoleCoreSender\\ConsoleCoreReceiver\\ConsoleCoreReceiver.csproj": {}
+  },
+  "projects": {
+    "C:\\_repos\\ConsoleCoreSender\\ConsoleCoreReceiver\\ConsoleCoreReceiver.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\_repos\\ConsoleCoreSender\\ConsoleCoreReceiver\\ConsoleCoreReceiver.csproj",
+        "projectName": "ConsoleCoreReceiver",
+        "projectPath": "C:\\_repos\\ConsoleCoreSender\\ConsoleCoreReceiver\\ConsoleCoreReceiver.csproj",
+        "packagesPath": "C:\\Users\\Tebogo\\.nuget\\packages\\",
+        "outputPath": "C:\\_repos\\ConsoleCoreSender\\ConsoleCoreReceiver\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tebogo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\_repos\\ConsoleCoreSender\\WONGA.RabbitMQ.Service\\WONGA.RabbitMQ.Service.csproj": {
+                "projectPath": "C:\\_repos\\ConsoleCoreSender\\WONGA.RabbitMQ.Service\\WONGA.RabbitMQ.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\_repos\\ConsoleCoreSender\\WONGA.RabbitMQ.Service\\WONGA.RabbitMQ.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\_repos\\ConsoleCoreSender\\WONGA.RabbitMQ.Service\\WONGA.RabbitMQ.Service.csproj",
+        "projectName": "WONGA.RabbitMQ.Service",
+        "projectPath": "C:\\_repos\\ConsoleCoreSender\\WONGA.RabbitMQ.Service\\WONGA.RabbitMQ.Service.csproj",
+        "packagesPath": "C:\\Users\\Tebogo\\.nuget\\packages\\",
+        "outputPath": "C:\\_repos\\ConsoleCoreSender\\WONGA.RabbitMQ.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tebogo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

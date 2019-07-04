@@ -1,0 +1,14 @@
+C:\_repos\ConsoleCoreSender\ConsoleCoreReceiver\bin\Debug\netcoreapp2.2\ConsoleCoreReceiver.deps.json
+C:\_repos\ConsoleCoreSender\ConsoleCoreReceiver\bin\Debug\netcoreapp2.2\ConsoleCoreReceiver.runtimeconfig.json
+C:\_repos\ConsoleCoreSender\ConsoleCoreReceiver\bin\Debug\netcoreapp2.2\ConsoleCoreReceiver.runtimeconfig.dev.json
+C:\_repos\ConsoleCoreSender\ConsoleCoreReceiver\bin\Debug\netcoreapp2.2\ConsoleCoreReceiver.dll
+C:\_repos\ConsoleCoreSender\ConsoleCoreReceiver\obj\Debug\netcoreapp2.2\ConsoleCoreReceiver.csproj.CoreCompileInputs.cache
+C:\_repos\ConsoleCoreSender\ConsoleCoreReceiver\obj\Debug\netcoreapp2.2\ConsoleCoreReceiver.AssemblyInfoInputs.cache
+C:\_repos\ConsoleCoreSender\ConsoleCoreReceiver\obj\Debug\netcoreapp2.2\ConsoleCoreReceiver.AssemblyInfo.cs
+C:\_repos\ConsoleCoreSender\ConsoleCoreReceiver\bin\Debug\netcoreapp2.2\ConsoleCoreReceiver.pdb
+C:\_repos\ConsoleCoreSender\ConsoleCoreReceiver\obj\Debug\netcoreapp2.2\ConsoleCoreReceiver.csprojAssemblyReference.cache
+C:\_repos\ConsoleCoreSender\ConsoleCoreReceiver\obj\Debug\netcoreapp2.2\ConsoleCoreReceiver.dll
+C:\_repos\ConsoleCoreSender\ConsoleCoreReceiver\obj\Debug\netcoreapp2.2\ConsoleCoreReceiver.pdb
+C:\_repos\ConsoleCoreSender\ConsoleCoreReceiver\bin\Debug\netcoreapp2.2\WONGA.RabbitMQ.Service.dll
+C:\_repos\ConsoleCoreSender\ConsoleCoreReceiver\bin\Debug\netcoreapp2.2\WONGA.RabbitMQ.Service.pdb
+C:\_repos\ConsoleCoreSender\ConsoleCoreReceiver\obj\Debug\netcoreapp2.2\ConsoleCoreReceiver.csproj.CopyComplete

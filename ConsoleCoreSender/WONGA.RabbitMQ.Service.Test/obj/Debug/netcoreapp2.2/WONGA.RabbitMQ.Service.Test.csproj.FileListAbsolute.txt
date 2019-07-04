@@ -1,0 +1,17 @@
+C:\_repos\ConsoleCoreSender\WONGA.RabbitMQ.Service.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\_repos\ConsoleCoreSender\WONGA.RabbitMQ.Service.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\_repos\ConsoleCoreSender\WONGA.RabbitMQ.Service.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\_repos\ConsoleCoreSender\WONGA.RabbitMQ.Service.Test\bin\Debug\netcoreapp2.2\WONGA.RabbitMQ.Service.Test.deps.json
+C:\_repos\ConsoleCoreSender\WONGA.RabbitMQ.Service.Test\bin\Debug\netcoreapp2.2\WONGA.RabbitMQ.Service.Test.runtimeconfig.json
+C:\_repos\ConsoleCoreSender\WONGA.RabbitMQ.Service.Test\bin\Debug\netcoreapp2.2\WONGA.RabbitMQ.Service.Test.runtimeconfig.dev.json
+C:\_repos\ConsoleCoreSender\WONGA.RabbitMQ.Service.Test\bin\Debug\netcoreapp2.2\WONGA.RabbitMQ.Service.Test.dll
+C:\_repos\ConsoleCoreSender\WONGA.RabbitMQ.Service.Test\obj\Debug\netcoreapp2.2\WONGA.RabbitMQ.Service.Test.csprojAssemblyReference.cache
+C:\_repos\ConsoleCoreSender\WONGA.RabbitMQ.Service.Test\obj\Debug\netcoreapp2.2\WONGA.RabbitMQ.Service.Test.csproj.CoreCompileInputs.cache
+C:\_repos\ConsoleCoreSender\WONGA.RabbitMQ.Service.Test\obj\Debug\netcoreapp2.2\WONGA.RabbitMQ.Service.Test.AssemblyInfoInputs.cache
+C:\_repos\ConsoleCoreSender\WONGA.RabbitMQ.Service.Test\obj\Debug\netcoreapp2.2\WONGA.RabbitMQ.Service.Test.AssemblyInfo.cs
+C:\_repos\ConsoleCoreSender\WONGA.RabbitMQ.Service.Test\bin\Debug\netcoreapp2.2\WONGA.RabbitMQ.Service.Test.pdb
+C:\_repos\ConsoleCoreSender\WONGA.RabbitMQ.Service.Test\obj\Debug\netcoreapp2.2\WONGA.RabbitMQ.Service.Test.dll
+C:\_repos\ConsoleCoreSender\WONGA.RabbitMQ.Service.Test\obj\Debug\netcoreapp2.2\WONGA.RabbitMQ.Service.Test.pdb
+C:\_repos\ConsoleCoreSender\WONGA.RabbitMQ.Service.Test\bin\Debug\netcoreapp2.2\WONGA.RabbitMQ.Service.dll
+C:\_repos\ConsoleCoreSender\WONGA.RabbitMQ.Service.Test\bin\Debug\netcoreapp2.2\WONGA.RabbitMQ.Service.pdb
+C:\_repos\ConsoleCoreSender\WONGA.RabbitMQ.Service.Test\obj\Debug\netcoreapp2.2\WONGA.RabbitMQ.Service.Test.csproj.CopyComplete
